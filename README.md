@@ -231,7 +231,7 @@ This enables real-time inspection of the fusion process.
 ---
 
 # Data Fusion Pipeline
-
+![Diagram](project/CPFS2.jpg)
 ```
 Local Detection
         │
@@ -332,6 +332,7 @@ rviz2
 
 # Results
 ![Diagram](CPFS1R.jpg)
+
 The cooperative perception framework successfully:
 
 - Combines local and cooperative object detections.
