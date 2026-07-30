@@ -331,7 +331,7 @@ rviz2
 ---
 
 # Results
-![Diagram](CPFS1R.JPG)
+![Diagram](CPFS1R.jpg)
 The cooperative perception framework successfully:
 
 - Combines local and cooperative object detections.
