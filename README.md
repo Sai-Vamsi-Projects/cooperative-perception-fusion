@@ -34,8 +34,7 @@ The final fused object positions are visualized in **RViz2** for real-time analy
 ---
 
 # System Architecture
-
-![System Architecture](Images/system_architecture.png)
+![System Architecture](CPFS1System.jpg)
 
 The system consists of the following modules:
 
@@ -332,7 +331,7 @@ rviz2
 ---
 
 # Results
-
+![Diagram](CPFS1R.JPG)
 The cooperative perception framework successfully:
 
 - Combines local and cooperative object detections.
@@ -341,7 +340,7 @@ The cooperative perception framework successfully:
 - Improves localisation accuracy by dynamically adapting the measurement covariance.
 - Produces stable and consistent object position estimates.
 - Visualizes fused object positions in RViz2.
-
+- 
 Compared to an EKF using a fixed covariance matrix, the dynamic covariance estimation provides more reliable position estimates under varying sensor conditions.
 
 ---
