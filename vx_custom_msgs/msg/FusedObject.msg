@@ -1,0 +1,6 @@
+int32 object_id
+string object_class 
+geometry_msgs/Point base_link_position
+geometry_msgs/Point enu_position
+geometry_msgs/Vector3 velocity
+float32 confidence
